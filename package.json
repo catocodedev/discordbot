@@ -1,0 +1,26 @@
+{
+  "name": "catobot",
+  "version": "1.0.0",
+  "description": "Cool bot for discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "meow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catocodedev/discordbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catocodedev/discordbot/issues"
+  },
+  "homepage": "https://github.com/catocodedev/discordbot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "2.6.1"
+  }
+}
