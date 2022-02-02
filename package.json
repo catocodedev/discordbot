@@ -4,7 +4,7 @@
   "description": "Cool bot for discord",
   "main": "main.js",
   "scripts": {
-    "test": "meow"
+    "test": "node main.js"
   },
   "repository": {
     "type": "git",
